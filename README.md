@@ -1,1 +1,1 @@
-# public
+A big part of my work is providing [HIPAA Expert Determination](https://www.johndcook.com/blog/expert-hipaa-deidentification/) for clients ranging from Fortune 500 companies down to small research labs. 
